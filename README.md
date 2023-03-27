@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan Emin Doğan</h1>
-<h3 align="center">A passionate Web developer from I Turkey</h3>
+<h3 align="center">Web developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
